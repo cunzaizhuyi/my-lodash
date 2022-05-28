@@ -1,0 +1,23 @@
+{
+  "name": "my-lodash",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "cross-env A_ENV=dev vite",
+  },
+  "module": "./add.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  },
+  "eslintConfig": {
+
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
