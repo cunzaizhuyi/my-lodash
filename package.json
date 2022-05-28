@@ -1,10 +1,11 @@
 {
   "name": "my-lodash",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "scripts": {
     "dev": "cross-env A_ENV=dev vite",
   },
+  "main": "./add.js",
   "module": "./add.js",
   "dependencies": {
 
