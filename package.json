@@ -1,6 +1,6 @@
 {
   "name": "my-lodash",
-  "private": false,
+  "private": "true",
   "version": "0.0.1",
   "scripts": {
     "dev": "cross-env A_ENV=dev vite",
